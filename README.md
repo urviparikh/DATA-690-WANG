@@ -1,2 +1,2 @@
 # DATA-690-WANG
-Data Science/Python
+Data Science/Python Course 
