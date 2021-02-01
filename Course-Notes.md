@@ -21,12 +21,16 @@
 - magic commands
 
 - For loop example
-  'sequence = [1, 2, None, 4, None, 5]
+  '''
+  { 
+    sequence = [1, 2, None, 4, None, 5]
   total = 0
   for value in sequence:
     if value is None:
       continue
-    total += value'
+    total += value 
+    }
+    '''
     
 - While loop example
   'x= 256
