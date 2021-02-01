@@ -33,18 +33,26 @@
     '''
     
 - While loop example
-  'x= 256
+  '''
+  {
+    x= 256
   total = 0
   while x > 0:
     if total > 500:
       break
     total += x
-    x = x // 2'
+    x = x // 2
+    }
+    '''
   
   
  - Range example
-   'sum = 0
+   '''
+   {
+    sum = 0
     for i in range(100000):
        % is the modulo operator
       if i % 3 == 0 or i % 5 == 0:
-        sum += i'
+        sum += i
+        }
+        '''
