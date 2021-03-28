@@ -113,10 +113,15 @@ Global awareness of climate change is increasing and should continue to increase
 
 
 **References:**
+
+
 https://www.washingtonpost.com/climate-solutions/2020/06/12/india-emissions-climate/?utm_source=google&utm_medium=acq-nat&utm_campaign=eng-hub-search&utm_content=hub-climate_soultions&utm_keyword=&campaignid=8202785432&adgroupid=111150677210&adid=504675287503&gclid=EAIaIQobChMImKC3wtvT7wIVSuDICh2j1gd9EAAYASAAEgKwJPD_BwE 
+
 
 https://www.washingtonpost.com/weather/2020/07/22/climate-sensitivity-co2/
 
+
 https://www.nytimes.com/2019/12/04/climate/climate-change-acceleration.html
+
 
 Data obtained from : http://www.worlddev.xyz/
