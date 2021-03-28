@@ -7,7 +7,7 @@ Climate change is a phenomenon that is affecting everyone globally because we al
 
 
 
-According to an article on the Washington Post, the current pace of human-caused carbon emissions is likely to trigger irreversible damage to the planet, according to an international study released in July 2020. Scientists believe that if human activities--such as burning oil, gas and coal along with deforestation--can push carbon dioxide levels to such levels that the Earth's global temperature can increase between 4 to 8 degrees Fahrenheit. With rising temperatures, there are impacts on drastic weather patterns, snow and ice storms, heat waves and a chain reaction of many other changes affecting the planet. Globally, the year 2020 was the hottest year on record. Climate change has specifically been in the spotlight for the year 2020 also as the U.S. set new records for the number of wildfires in the west coast of the country. Five of California's 10 largest wildfires on record happened in the year 2020 and it has devastated over 4.2 million acres. Not to mention, the amount of Arctic sea ice has declined so rapidly that the region may see ice-free summers by the 2030s, according an article on the New York Times. 
+According to an article on the Washington Post, the current pace of human-caused carbon emissions is likely to trigger irreversible damage to the planet, according to an international study released in July 2020. Scientists believe that human activities--such as burning oil, gas and coal along with deforestation--can push carbon dioxide levels to such levels that the Earth's global temperature can increase between 4 to 8 degrees Fahrenheit. With rising temperatures, there are impacts on drastic weather patterns, snow and ice storms, heat waves and a chain reaction of many other changes affecting the planet. Globally, the year 2020 was the hottest year on record. Climate change has specifically been in the spotlight for the year 2020 also as the U.S. set new records for the number of wildfires in the west coast of the country. Five of California's 10 largest wildfires on record happened in the year 2020 and it has devastated over 4.2 million acres. Not to mention, the amount of Arctic sea ice has declined so rapidly that the region may see ice-free summers by the 2030s, according an article on the New York Times. 
 
 
 So, it becomes extremely important that everyone is aware of the impacts of climate change. Many developing countries are suspected to be major contributors of climate change due to their high emissions of Greenhouse gases. Several countries' growing GDP Per Capita is also believed to be producing higher CO2 emissions, causing further damages to the ever-rising temperatures. 
@@ -19,6 +19,7 @@ So, it becomes extremely important that everyone is aware of the impacts of clim
 2. Is there a link between education and climate change? If a country's citizens are more educated, does that mean they are also more aware of
 the drastic impacts of climate change?
 
+3. Are more countries turning towards renewable energy sources in order to reduce the adverse effects on climate change?
 
 I was interested in exploring the impacts of wealth, renewable energy and education on the growing concerns of climate change. Utilizing the various indicators present on the WDX website, I was able to obtain data on these research questions. The only available data span from the years 2010 to 2016. 
 
@@ -73,7 +74,7 @@ the population of China and India are relatively close, but China's CO2 levels a
 These line graphs are able to track the trends of their GDP Per Capita as well as their CO2 emissions from 2010 to 2016. 
 
 **Key Takeaways from these graphs:**
-- As you can see, India and China (developing countries) have had a rather rapid increase in CO2 emssions vs. Canada and Australia (developed countries). 
+- As it can be seen, India and China (developing countries) have had a rather rapid increase in CO2 emssions vs. Canada and Australia (developed countries). 
 - It's staggering to note that both Canada and Austrlia have managed to truly control their CO2 emissions, as they have only risen slightly over the timespan of 6 years. 
 - There is also no correlation between how rich a country is and how much CO2 is emitted. Even though the U.S., Australia and Canada all have comparatively higher GDP Per Capita, it does not seem to have an impact on their CO2 levels. 
 
@@ -85,7 +86,7 @@ These line graphs are able to track the trends of their GDP Per Capita as well a
 
 
 ![image](https://user-images.githubusercontent.com/78182982/112766037-f374e200-8fdd-11eb-9993-03d43581846a.png)
-This bar graph clearly defines that there is a link between education and climate change. Two of the main contributors of climate change also have the highest percentage of their youth uneducated. For India, 33% of its population age 15+ has received no education and that significantly impacts their citizens decisions on a day-to-day basis. Youth constitutes the majority of the population in many countries and have an increasingly strong social and environmental awareness, which has the power to transform our societies towards a low-carbon and climate resilient future. 
+This bar graph clearly defines that there is a link between education and climate change. Two of the main contributors of climate change (India and China) also have the highest percentage of their youth uneducated. For India, 33% of its population age 15+ has received no education and that significantly impacts their citizens decisions on a day-to-day basis. Youth constitutes the majority of the population in many countries and have an increasingly strong social and environmental awareness, which has the power to transform our societies towards a low-carbon and climate resilient future. 
 
 
 
@@ -94,7 +95,7 @@ This bar graph clearly defines that there is a link between education and climat
 
 
 ![image](https://user-images.githubusercontent.com/78182982/112769774-ced63580-8ff0-11eb-894e-350b0f7fa74a.png)
-This line graph tracks the progress on the amount of electricity being procuded from renewable sources vs. the non-renewable sources that would increase their CO2 emissions. As it can be seen, a developing country like China has truly increased their utilization of renewable energy quite drastically, and is very close to the U.S.(developed country) numbers. Similarly, there is a common trend of increasing renewable energy among all of the countries, which can be attributed to increasing educational awareness on climate change. 
+This line graph tracks the progress on the amount of electricity being produced from renewable sources vs. the non-renewable sources that would increase their CO2 emissions. As it can be seen, a developing country like China has truly increased their utilization of renewable energy quite drastically, and is very close to the U.S.(developed country) numbers. Similarly, there is a common trend of increasing renewable energy among all of the countries, which can be attributed to increasing educational awareness on climate change. 
 
 
 **From this data and research, it can be concluded that:**
@@ -108,6 +109,7 @@ With as many petitions and initiatives taking place all over the globe, we can o
 
 This is also one of the reasons why the Biden administration has been petitioning for cutting down our Greenhouse Gas emissions. The administration noted that the U.S. will set a new emissions-reduction target before the Leaders' Climate Summit in April 2021. A 50% reduction by 2030 is attainable and will provide major economic and social benefit for the U.S. 
 
+Global awareness of climate change is increasing and should continue to increase in order for us to observe a positive trajectory. 
 
 
 **References:**
@@ -115,3 +117,6 @@ https://www.washingtonpost.com/climate-solutions/2020/06/12/india-emissions-clim
 
 https://www.washingtonpost.com/weather/2020/07/22/climate-sensitivity-co2/
 
+https://www.nytimes.com/2019/12/04/climate/climate-change-acceleration.html
+
+Data obtained from : http://www.worlddev.xyz/
