@@ -95,7 +95,7 @@ This bar graph clearly defines that there is a link between education and climat
 
 
 ![image](https://user-images.githubusercontent.com/78182982/112769774-ced63580-8ff0-11eb-894e-350b0f7fa74a.png)
-This line graph tracks the progress on the amount of electricity being produced from renewable sources vs. the non-renewable sources that would increase their CO2 emissions. As it can be seen, a developing country like China has truly increased their utilization of renewable energy quite drastically, and is very close to the U.S.(developed country) numbers. Similarly, there is a common trend of increasing renewable energy among all of the countries, which can be attributed to increasing educational awareness on climate change. 
+This line graph tracks the progress on the amount of electricity being produced from renewable sources vs. the non-renewable sources that would increase their CO2 emissions. As it can be seen in the graph, a developing country like China has truly increased their utilization of renewable energy quite drastically, and is very close to the U.S.(developed country) numbers. Similarly, there is a common trend of increasing renewable energy among all of the countries, which can be attributed to increasing educational awareness on climate change. 
 
 
 **From this data and research, it can be concluded that:**
